@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Decoder Ashish</h1>
 <h3 align="center">I'm a software developer, who's more passionate to make everyone's life easier with my knowledge and my problem solving skills.</h3>
 
-- 🔭 I’ve worked on these projects [Portfolio](https://desitalks.com/ashish/#projects)
+- 🔭 I’ve worked on these projects [Portfolio](https://decoderashish.me/#projects)
 
 - 🌱 I’m currently learning **Flutter, NuxtJs, Unity**
 
-- 👨‍💻 All of my projects are available at [https://desitalks.com/ashish/](https://desitalks.com/ashish/)
+- 👨‍💻 All of my projects are available at [https://decoderashish.me/](https://decoderashish.me/)
 
-- 📝 I regularly write articles on [https://desitalks.com/ashish/#projects](https://desitalks.com/ashish/#projects)
+- 📝 I regularly write articles on [https://decoderashish.me/#projects](https://decoderashish.me/#projects)
 
 - 💬 Ask me about **React Native, NextJS, PHP, JavaScript**
 
 - 📫 How to reach me **decoderashish@gmail.com**
 
-- 📄 Know about my experiences [https://desitalks.com/ashish/Resume.pdf](https://desitalks.com/ashish/Resume.pdf)
+- 📄 Know about my experiences [https://decoderashish.me/Resume.pdf](https://decoderashish.me/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

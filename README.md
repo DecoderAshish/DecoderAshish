@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://decoderashish.me/#projects](https://decoderashish.me/)
 
-- 💬 Ask me about **React Native, NextJS, PHP, JavaScript**
+- 💬 Ask me about **React Native, NextJS, PHP, JavaScript** 
 
 - 📫 How to reach me **decoderashish@gmail.com**
 

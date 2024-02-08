@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter, NuxtJs, Unity**
 
-- 👨‍💻 All of my projects are available at [https://decoderashish.me/](https://decoderashish.me/)
+- 👨‍💻 All of my projects are available at [https://decoderashish.me/](https://decoderashish.me/#projects)
 
-- 📝 I regularly write articles on [https://decoderashish.me/#projects](https://decoderashish.me/#projects)
+- 📝 I regularly write articles on [https://decoderashish.me/#projects](https://decoderashish.me/)
 
 - 💬 Ask me about **React Native, NextJS, PHP, JavaScript**
 
